@@ -7,3 +7,4 @@ society 5.0
 -cloud computing
 -robotic
 -blockchain
+-cyber physical
